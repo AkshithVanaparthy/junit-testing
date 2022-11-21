@@ -9,7 +9,7 @@ public class test1 {
 	public void test() {
 		junittesting.junitfunctions j = new junittesting.junitfunctions();
 		j.addint(10, 2);
-		//fail("Not yet implemented");
+		
 	}
 
 }

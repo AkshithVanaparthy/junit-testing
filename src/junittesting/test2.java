@@ -10,7 +10,6 @@ public class test2 {
 	public void test() {
 		junittesting.junitfunctions j = new junittesting.junitfunctions();
 		j.addstring("Software", "lab");
-		//fail("Not yet implemented");
+		
 	}
-
 }

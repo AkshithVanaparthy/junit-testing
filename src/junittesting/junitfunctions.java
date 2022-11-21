@@ -5,6 +5,7 @@ public class junitfunctions {
 	{
 		String x=a+b;
 		System.out.print(x);
+		return;
 	}
 	public void addint(int a,int b)
 	{
